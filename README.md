@@ -9,3 +9,7 @@
 
 
 ### 공부해보고 싶은 것들을 기록하고 하나씩 지워보자
+- Geopandas, Geoplot, Folium tutorial
+- Matplotlib, seaborn, plotly tutorial
+- 다양한 metric과 어떤 비즈니스 상황에 쓸 수 있는지 tutorial
+- Image processing baseline 만들기
